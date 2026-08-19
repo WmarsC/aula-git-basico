@@ -1,2 +1,2 @@
 # aula-git-basico
-comandos basícos do git 
+comandos básicos do git 
